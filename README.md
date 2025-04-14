@@ -1,1 +1,2 @@
 My final project is going to be determining how much of an affect altitude has on how hard it is to hit a home run in different Major League Baseball stadiums.
+This repo contains a bunch of computational tools in python and how to use them in what looks like Russian? I opened integration and it showed how to use python to integrate functions.
